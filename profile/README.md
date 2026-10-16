@@ -2,8 +2,7 @@
 
 OpenVaultDB is an open protocol and implementation ecosystem for user-owned application data.
 
-## Flagship ecosystem product
+## DataTug session-storage architecture
 
-The OpenVaultDB session-storage architecture for DataTug is under development; no shipped integration is implied.
+The session-storage architecture for [DataTug](https://datatug.app) is under development in the OpenVaultDB ecosystem. Read [how DataTug’s development tools were built](https://datatug.app/en/under-the-hood/tools-we-built/).
 
-DataTug is the flagship ecosystem product. [Explore DataTug](https://datatug.app), and read [how we built its development tools](https://datatug.app/en/under-the-hood/tools-we-built/) for the open-source tools and standards behind it.
