@@ -1,0 +1,2 @@
+# .github
+OpenVaultDB organization profile
